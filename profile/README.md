@@ -13,7 +13,7 @@ UniMaaS is a  RIA (Research and Innovation Action) project funded by the Horizon
 * [Jenkins](https://jenkins.unimaas.rid-intrasoft.eu/) : CI/CD Automation Server
 * [Harbor](https://harbor.unimaas.rid-intrasoft.eu) : Container Image Registry
 * [Portainer](https://portainer.unimaas.rid-intrasoft.eu) : Container Management System
-* [CI/CD Documentation](https://github.com/SafeTravellers-Project/cicd-documentation) : CI/CD Stack Documentation Repository
+* [CI/CD Documentation](https://github.com/SafeTravellers-Project/cicd-documentation) : CI/CD Stack Documentation Repository TO BE CHANGED
 
 ## Website and Social Media
 
